@@ -3,7 +3,7 @@
 ## Goal
 To classify whether income exceeds $50K/yr based on census data.
 
-## Data Modelling Steps Performmed
+## Data Modelling Steps Performed
 * Build a classification model to classify whether the income exceeds $50K/yr
 * Performed data cleaning to handle missing values, and ensure datatype consistency
 * Conducted exploratory data analysis
